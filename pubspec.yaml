@@ -1,7 +1,7 @@
 name: insta_app_bar_view
-description: "Description here"
+description: "insta app bar view"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/insta_app_bar_view
 
 version: 1.0.0+1
 
